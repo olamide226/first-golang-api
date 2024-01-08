@@ -4,7 +4,7 @@
 ### Installation
 
 ```
-$ git clone https://github.com/olamide226/first-golang-api
+$ git clone https://github.com/olamide226/first-golang-api && cd first-golang-api
 ```
 
 ```
